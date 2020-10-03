@@ -14,7 +14,7 @@ func main() {
 	results := make(map[string]string)
 	c := make(chan requestResult)
 	urls := []string{
-		"https://www.naver.com/",
+		"hlttps://www.naver.com/",
 		"https://www.google.com/",
 		"https://github.com/",
 		"https://www.amazon.com/",
